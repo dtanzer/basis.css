@@ -1,0 +1,101 @@
+@media (min-width: $screen-size-small) and (max-width: $screen-size-medium) {
+	$base-column-width: 100%;
+	.small-columns-1 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 50%;
+	.small-columns-2 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 33.3333333%;
+	.small-columns-3 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 25%;
+	.small-columns-4 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 20%;
+	.small-columns-5 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 16.6666667%;
+	.small-columns-6 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 14.2857143%;
+	.small-columns-7 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 12.5%;
+	.small-columns-8 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 11.1111111%;
+	.small-columns-9 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 10%;
+	.small-columns-10 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 9.0909091%;
+	.small-columns-11 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 8.3333333%;
+	.small-columns-12 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 7.6923077%;
+	.small-columns-13 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 7.1428571%;
+	.small-columns-14 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 6.6666667%;
+	.small-columns-15 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 6.25%;
+	.small-columns-16 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 5.8823529%;
+	.small-columns-17 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 5.5555556%;
+	.small-columns-18 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 5.2631579%;
+	.small-columns-19 {
+		@import "all-columns-small";
+	}
+
+	$base-column-width: 5%;
+	.small-columns-20 {
+		@import "all-columns-small";
+	}
+}
