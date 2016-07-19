@@ -1,6 +1,13 @@
 .row {
 	clear: both;
 }
+.row:after {
+  content: "&nbsp;";
+  clear: both;
+  display: block;
+  visibility: hidden;
+  height: 0px;
+}
 
 $base-column-width: 100%;
 .columns-1 {
@@ -59,46 +66,6 @@ $base-column-width: 9.0909091%;
 
 $base-column-width: 8.3333333%;
 .columns-12 {
-	@import "all-columns";
-}
-
-$base-column-width: 7.6923077%;
-.columns-13 {
-	@import "all-columns";
-}
-
-$base-column-width: 7.1428571%;
-.columns-14 {
-	@import "all-columns";
-}
-
-$base-column-width: 6.6666667%;
-.columns-15 {
-	@import "all-columns";
-}
-
-$base-column-width: 6.25%;
-.columns-16 {
-	@import "all-columns";
-}
-
-$base-column-width: 5.8823529%;
-.columns-17 {
-	@import "all-columns";
-}
-
-$base-column-width: 5.5555556%;
-.columns-18 {
-	@import "all-columns";
-}
-
-$base-column-width: 5.2631579%;
-.columns-19 {
-	@import "all-columns";
-}
-
-$base-column-width: 5%;
-.columns-20 {
 	@import "all-columns";
 }
 

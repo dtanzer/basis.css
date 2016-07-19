@@ -38,30 +38,6 @@
 .column.colspan-12 {
 	width:  calc(12 * #{$base-column-width});
 }
-.column.colspan-13 {
-	width:  calc(13 * #{$base-column-width});
-}
-.column.colspan-14 {
-	width:  calc(14 * #{$base-column-width});
-}
-.column.colspan-15 {
-	width: calc(15 * #{$base-column-width});
-}
-.column.colspan-16 {
-	width: calc(16 * #{$base-column-width});
-}
-.column.colspan-17 {
-	width: calc(17 * #{$base-column-width});
-}
-.column.colspan-18 {
-	width: calc(18 * #{$base-column-width});
-}
-.column.colspan-19 {
-	width: calc(19 * #{$base-column-width});
-}
-.column.colspan-20 {
-	width: calc(20 * #{$base-column-width});
-}
 
 .column.medium-colspan-1 {
 	width: #{$base-column-width};
@@ -98,28 +74,4 @@
 }
 .column.medium-colspan-12 {
 	width:  calc(12 * #{$base-column-width});
-}
-.column.medium-colspan-13 {
-	width:  calc(13 * #{$base-column-width});
-}
-.column.medium-colspan-14 {
-	width:  calc(14 * #{$base-column-width});
-}
-.column.medium-colspan-15 {
-	width: calc(15 * #{$base-column-width});
-}
-.column.medium-colspan-16 {
-	width: calc(16 * #{$base-column-width});
-}
-.column.medium-colspan-17 {
-	width: calc(17 * #{$base-column-width});
-}
-.column.medium-colspan-18 {
-	width: calc(18 * #{$base-column-width});
-}
-.column.medium-colspan-19 {
-	width: calc(19 * #{$base-column-width});
-}
-.column.medium-colspan-20 {
-	width: calc(20 * #{$base-column-width});
 }
